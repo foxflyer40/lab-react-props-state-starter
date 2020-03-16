@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.target {
+  border: 3px solid blue;
+  height: 100px;
+}
+
+.source {
+  border: 3px solid red;
+  height: 100px;
+  min-width: 300px;
+}
